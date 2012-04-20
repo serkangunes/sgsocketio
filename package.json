@@ -1,0 +1,17 @@
+{
+  "name": "sgsocketio",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "server.js"
+  },
+  "dependencies": {
+    "express": "2.5.8",
+    "socket.io": "0.9.6",
+    "dateformat": "1.0.2-1.2.3"
+  },
+  "subdomain": "sgsocketio",
+  "engines": {
+    "node": "0.6.x"
+  }
+}
